@@ -1,0 +1,16 @@
+{
+    "threshold": [
+        {
+            "age": 15,
+            "country": "Wakanda"
+        },
+        {
+            "age": 14,
+            "country": "Korumba"
+        },
+        {
+            "age": 16,
+            "country": "Zingge"
+        }
+    ]
+}
