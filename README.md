@@ -16,7 +16,7 @@ See [example](https://play.openpolicyagent.org/p/tlpT5tsPBB)
 on rego playground.
 
 ## Feature: Automating policy enforcement
-As a product owner my organisation, I want my service to comply with organisation policy  
+As a product owner my organisation, I want my product to comply with organisation policy  
 so that my product is compliant.
 
 ### Scenario: Assess input against Policy and get a decision
