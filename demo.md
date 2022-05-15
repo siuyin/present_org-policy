@@ -5,7 +5,7 @@ opa run --server \
 --set decision_logs.console=true \
 --set bundles.play.polling.long_polling_timeout_seconds=45 \
 --set services.play.url=https://play.openpolicyagent.org \
---set bundles.play.resource=bundles/t80dZBaJFg
+--set bundles.play.resource=bundles/Bu0m4i9SFR
 ```
 
 Execute queries against that server:

@@ -12,7 +12,7 @@ Given I am a regulator in my organisation
 When I have written my policy document  
 Then I should see that my policy is enforcible by a computer program.
 
-See [example](https://play.openpolicyagent.org/p/tlpT5tsPBB)
+See [example](https://play.openpolicyagent.org/p/xv3g5fkndv).
 on rego playground.
 
 ## Feature: Automating policy enforcement
